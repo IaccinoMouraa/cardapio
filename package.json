@@ -1,0 +1,23 @@
+{
+  "name": "cardapio",
+  "version": "1.0.0",
+  "description": "criando um cardapio.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx tailwindcss -i ./styles/style.css -o ./styles/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IaccinoMouraa/cardapio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IaccinoMouraa/cardapio/issues"
+  },
+  "homepage": "https://github.com/IaccinoMouraa/cardapio#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  }
+}
